@@ -22,7 +22,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+[`Click Here`](https://github.com/naychan-v/zero/blob/master/session.json#L1)
 
 ## `SETTING`
 
