@@ -26,9 +26,9 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+- Owner number [Here](https://github.com/naychan-v/zero/blob/master/settings.json#L4)
+- Owner name [Here](https://github.com/naychan-v/zero/blob/master/settings.json#L13)
+- Bot name [Here](https://github.com/naychan-v/zero/blob/master/settings.json#L14)
 
 ## `CHANGE DYNO`
 
@@ -50,8 +50,4 @@ Off in web nya
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
 
-
-## ```COFFEE```
-
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
 
